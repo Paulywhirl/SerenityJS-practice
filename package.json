@@ -7,5 +7,20 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Paul Henderson",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/chai-as-promised": "^7.1.0",
+    "@types/cucumber": "^4.0.4",
+    "@types/node": "^10.9.4",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-smoothie": "^0.3.2",
+    "cucumber": "^1.3.3",
+    "protractor": "^5.4.0",
+    "serenity-cli": "^0.11.0",
+    "serenity-js": "^1.10.13",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  }
 }
