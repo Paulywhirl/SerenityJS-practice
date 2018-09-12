@@ -7,7 +7,7 @@ const
 
 exports.config = {
 
-    baseUrl: 'http://localhost:3000/#!/model/new/properties',
+    // baseUrl: '',
 
     //seleniumServerJar: seleniumJar,
 
